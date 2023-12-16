@@ -1,0 +1,41 @@
+h2 {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+  color: rgba(240, 13, 13, 0.946);
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 10px 12px;
+  margin-bottom: 20px;
+}
+#bakImg {
+  height: 98vh;
+  width: 100vw;
+  background-image: url("../assets/imgbhjcbhjs.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0;
+}
+button {
+  padding: 8px 12px;
+  background-color: darkgray;
+  transition: 0.3s;
+  border-radius: 8px;
+  font-weight: 600;
+  position: absolute;
+  top: 475px;
+  left: 650px;
+}
+button:hover {
+  background-color: greenyellow;
+}
+.quizHeader {
+  background-color: #39b5e0;
+  border: 1px solid red;
+  /* padding: 10px 20px 10px 20px; */
+  padding: 10px 20px;
+  box-shadow: 2px 2px 10px lightgray;
+}
+a {
+  text-decoration: none;
+}

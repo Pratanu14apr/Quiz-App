@@ -1,0 +1,43 @@
+.full {
+  margin: 3%;
+  position: relative;
+}
+.heading {
+  position: absolute;
+  top: 100px;
+  left: 160px;
+  color: rgb(96, 58, 58);
+  font-size: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.register {
+  position: absolute;
+  bottom: 120px;
+  left: 650px;
+  border-radius: 10px;
+  font-size: 50px;
+  height: 90px;
+  width: 200px;
+  font-weight: 800;
+  text-align: center;
+  border-color: black;
+  color: rgb(128, 75, 56);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: rgb(255, 247, 234);
+}
+.login {
+  position: absolute;
+  bottom: 120px;
+  left: 960px;
+  border-radius: 10px;
+  font-size: 50px;
+  font-weight: 800;
+  height: 90px;
+  width: 150px;
+  border-color: black;
+  text-align: center;
+  color: rgb(128, 75, 56);
+  background-color: rgb(255, 247, 234);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
